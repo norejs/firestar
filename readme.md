@@ -24,11 +24,11 @@ Firestar(container, count, duration, imgsrc);
 * duration
     * Type：Number
     * Default: 5
-    * Description：火焰效果的数量
+    * Description：一个粒子从开始到结束的过度时间
 * imgsrc
     * Type：String
     * Default: 一张火焰的图片
-    * Description：火焰的图片
+    * Description：粒子的图片
 
 
 
