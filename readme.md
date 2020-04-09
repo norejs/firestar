@@ -1,18 +1,20 @@
 # Firestar
 
-## 用法
+## Demos
+https://zt2.ztgame.com/act/anniversary2020/
 
-### 安装
+
+## Install
 ```bash
 yarn add "@norejs/firestar" --dev
 ```
 
-### 使用
+## Usage
 ```javascript
 import Firestar from "@norejs/firestar";
 Firestar(container, count, duration, imgsrc);
 ```
-#### 参数说明
+#### Parameter
 * container：
     * Type：DOM
     * Default: body
